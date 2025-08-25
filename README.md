@@ -6,3 +6,4 @@ baran
 asfalt
 mhb
 week
+akhr
