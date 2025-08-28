@@ -9,3 +9,4 @@ week
 akhr
 dash
 united
+khatksh
