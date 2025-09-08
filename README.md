@@ -18,3 +18,4 @@ paris
 cris
 bling
 spain
+italy
