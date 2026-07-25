@@ -54,3 +54,4 @@ werkez
 kow
 bosh
 chap
+nazr
