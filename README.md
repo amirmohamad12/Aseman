@@ -55,3 +55,4 @@ kow
 bosh
 chap
 nazr
+nama
