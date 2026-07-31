@@ -59,3 +59,4 @@ nama
 patroit
 paybox
 biok
+enrgy
