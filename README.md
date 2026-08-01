@@ -60,3 +60,4 @@ patroit
 paybox
 biok
 enrgy
+nahal
