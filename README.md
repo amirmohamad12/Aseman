@@ -62,3 +62,4 @@ biok
 enrgy
 nahal
 osimen
+mishok
