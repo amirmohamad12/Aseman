@@ -67,3 +67,4 @@ garnacho
 saloown
 paopoi
 shahed
+prismax
