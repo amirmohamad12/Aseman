@@ -73,3 +73,4 @@ zamin
 bian
 roboscut
 gifu
+asans
